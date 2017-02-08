@@ -1,4 +1,3 @@
-Test
 VERSION 5.00
 Begin VB.Form frmDataCollection 
    Caption         =   "GTACS NTT - Data Collection Screen"
